@@ -1,4 +1,4 @@
-### Hello World gif
+transparent gif
 
 I'm a programming student, and I'm in love with Vim!
 
