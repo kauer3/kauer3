@@ -2,7 +2,6 @@
 
 
 
-Here are some ideas to get you started:
 
 Languages: JavaScript, Python, C, HTML, CSS
 Frameworks: React, Django, Flask, Bootstrap
