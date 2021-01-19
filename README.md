@@ -1,11 +1,12 @@
 ### Hello World gif
 
-wave svg
 
-
-**kauer3/kauer3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+Languages: JavaScript, Python, C, HTML, CSS
+Frameworks: React, Django, Flask, Bootstrap
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
