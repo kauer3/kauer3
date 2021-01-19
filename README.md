@@ -1,7 +1,6 @@
 ### Hello World gif
 
-
-
+I'm a programming student, and I'm in love with Vim!
 
 Languages: JavaScript, Python, C, HTML, CSS
 Frameworks: React, Django, Flask, Bootstrap
