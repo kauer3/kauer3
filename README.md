@@ -1,4 +1,4 @@
-<!--pointing.gif with balloon saying hire this guy-->
+<!--<img src="/images/pointing.gif"> with balloon saying hire this guy-->
 
 I'm a programming student, and I'm in love with Vim!
 
