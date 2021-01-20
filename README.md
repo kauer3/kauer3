@@ -2,14 +2,12 @@
 <img align="left" src="/images/pointing.gif">
 <img align="right" src="/images/balloon.gif">
 
+<!--<p align="left">-->
+<!--I'm a programming student, and I'm in love with Vim!-->
 
-<p align="left">
-I'm a programming student, and I'm in love with Vim!
-
-Languages: JavaScript, Python, C, HTML, CSS
-Frameworks: React, Django, Flask, Bootstrap
-</p>
-
+<!--Languages: JavaScript, Python, C, HTML, CSS-->
+<!--Frameworks: React, Django, Flask, Bootstrap-->
+<!--</p>-->
 
 <!--- 🔭 I’m currently working on-->
 <!--- 🌱 I’m currently learning-->
