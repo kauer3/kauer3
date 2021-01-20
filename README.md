@@ -1,7 +1,6 @@
+<img align="left" src="/images/blank.png">
 <img align="left" src="/images/pointing.gif">
-<p align="center">
-				<img src="/images/balloon.gif">
-</p>
+<img align="right" src="/images/balloon.gif">
 
 I'm a programming student, and I'm in love with Vim!
 
