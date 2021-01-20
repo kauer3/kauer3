@@ -1,4 +1,4 @@
-<!--- transparent gif -->
+<!--- transparent gif of hand poiting to my profile picture-->
 
 I'm a programming student, and I'm in love with Vim!
 
