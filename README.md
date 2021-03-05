@@ -35,6 +35,4 @@
 <img align="right" height="158" src="/images/dev.gif">
 <!--</details>-->
 
-> Check out my projects: (list projects)
-
-> And my portfolio: ...
+<!--Check out my projects: (list projects)-->
