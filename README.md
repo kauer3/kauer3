@@ -18,26 +18,26 @@
 
 <br>
 
-[Portfolio](https://kauer3.github.io/)
+# [Portfolio](https://kauer3.github.io/)
 
 <br>
 
 ---
 
 <br>
-##For Google Chrome users: 
+## For Google Chrome users: 
 
-###[Slang - Text to Speech](https://chrome.google.com/webstore/detail/slang-text-to-speech/enkmbkhkbdiaafkmofbmdahclajelgfh)
-
-<br>
-##For Vim (and Neovim, Gvim) users: 
-<br>
-
-###[Paste-Replace.vim](https://github.com/kauer3/paste-replace.vim)
+### [Slang - Text to Speech](https://chrome.google.com/webstore/detail/slang-text-to-speech/enkmbkhkbdiaafkmofbmdahclajelgfh)
 
 <br>
+## For Vim (and Neovim, Gvim) users: 
+<br>
 
-###[Insert-Motions.vim](https://github.com/kauer3/insert-motions.vim)
+### [Paste-Replace.vim](https://github.com/kauer3/paste-replace.vim)
+
+<br>
+
+### [Insert-Motions.vim](https://github.com/kauer3/insert-motions.vim)
 
 <br>
 
