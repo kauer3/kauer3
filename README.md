@@ -13,35 +13,32 @@
 <img align="left" height="35px" src="/images/learning.gif">
 
 <br>
-<br>
-<br>
 
 ---
 
-<br>
-<br>
 <br>
 
 [Portfolio](https://kauer3.github.io/)
 
 <br>
-<br>
-<br>
 
 ---
 
 <br>
-For Google Chrome users: 
+##For Google Chrome users: 
 
-[Slang - Text to Speech](https://chrome.google.com/webstore/detail/slang-text-to-speech/enkmbkhkbdiaafkmofbmdahclajelgfh)
-
-<br>
-For Vim (and Neovim, Gvim) users: 
-
-[Paste-Replace.vim](https://github.com/kauer3/paste-replace.vim)
+###[Slang - Text to Speech](https://chrome.google.com/webstore/detail/slang-text-to-speech/enkmbkhkbdiaafkmofbmdahclajelgfh)
 
 <br>
-[Insert-Motions.vim](https://github.com/kauer3/insert-motions.vim)
+##For Vim (and Neovim, Gvim) users: 
+<br>
+
+###[Paste-Replace.vim](https://github.com/kauer3/paste-replace.vim)
+
+<br>
+
+###[Insert-Motions.vim](https://github.com/kauer3/insert-motions.vim)
+
 <br>
 
 ---
