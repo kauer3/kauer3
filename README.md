@@ -12,28 +12,7 @@
 <img align="left" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png">
 <img align="left" height="35px" src="/images/learning.gif">
 
----
-
 <br>
-
-<p align="center">
-
-> <h2><a href="https://kauer3.github.io/">Portfolio</a></h2>
-
-<br>
-
-<h2>For Google Chrome users:</h2> 
-
-> <h3><a href="https://chrome.google.com/webstore/detail/slang-text-to-speech/enkmbkhkbdiaafkmofbmdahclajelgfh">Slang - Text to Speech</a></h3>
-
-<br>
-
-<h2>For Vim (and Neovim, Gvim) users:</h2> 
-
-> <h3><a href="https://github.com/kauer3/paste-replace.vim">Paste-Replace.vim</a></h3>
-> <h3><a href="https://github.com/kauer3/insert-motions.vim">Insert-Motions.vim</a></h3>
-
-</p>
 
 ---
 
@@ -44,3 +23,25 @@
 <img align="right" height="158" src="/images/dev.gif">
 <!-- </details>-->
 
+---
+
+<br>
+
+<p align="center">
+
+> <h3><a href="https://kauer3.github.io/">Portfolio</a></h3>
+
+<br>
+
+<h3>For Google Chrome:</h3> 
+
+> <h4><a href="https://chrome.google.com/webstore/detail/slang-text-to-speech/enkmbkhkbdiaafkmofbmdahclajelgfh">Slang - Text to Speech</a></h4>
+
+<br>
+
+<h3>For Vim (and Neovim, Gvim):</h3> 
+
+> <h4><a href="https://github.com/kauer3/paste-replace.vim">Paste-Replace.vim</a></h4>
+> <h4><a href="https://github.com/kauer3/insert-motions.vim">Insert-Motions.vim</a></h4>
+
+</p>
