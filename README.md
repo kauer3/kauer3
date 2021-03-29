@@ -13,6 +13,8 @@
 <img align="left" height="35px" src="/images/learning.gif">
 
 <br>
+<br>
+<br>
 
 ---
 
@@ -25,19 +27,19 @@
 
 ---
 
-<br>
+
 
 <p align="center">
 
 > <h3><a href="https://kauer3.github.io/">Portfolio</a></h3>
 
-<br>
+
 
 <h3>For Google Chrome:</h3> 
 
 > <h4><a href="https://chrome.google.com/webstore/detail/slang-text-to-speech/enkmbkhkbdiaafkmofbmdahclajelgfh">Slang - Text to Speech</a></h4>
 
-<br>
+
 
 <h3>For Vim (and Neovim, Gvim):</h3> 
 
