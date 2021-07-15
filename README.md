@@ -10,7 +10,7 @@
 <img align="left" width="34px" src="/images/django.png">
 <img align="left" height="30px" src="/images/flask.png">
 <img align="left" width="35px" src="/images/c.webp">
-<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png">
+<img align="left" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png">
 <img align="left" height="35px" src="/images/learning.gif">
 
 <br>
