@@ -42,7 +42,7 @@
 
 <br>
 
-<h3>For Vim (Neovim, Gvim):</h3> 
+<h3>For Vim:</h3> 
 
 > <h3><a href="https://github.com/kauer3/paste-replace.vim">paste-replace.vim</a></h3>
 > <h3><a href="https://github.com/kauer3/insert-motions.vim">insert-motions.vim</a></h3>
