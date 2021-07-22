@@ -32,7 +32,9 @@
 
 <!--<p align="center">-->
 <br>
+
 > <h3><a href="https://kauer3.github.io/">My portfolio</a></h3>
+
 <br>
 
 ---
