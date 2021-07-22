@@ -32,7 +32,7 @@
 
 <p align="center">
 
-> <h3><a href="https://kauer3.github.io/">Portfolio</a></h3>
+> <h3><a href="https://kauer3.github.io/">My portfolio</a></h3>
 
 <br>
 
