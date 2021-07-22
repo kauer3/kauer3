@@ -19,12 +19,12 @@
 
 ---
 
-<details>
+<!-- <details>
 <summary>Github Stats</summary>
-<br>
+<br>-->
   
 [![Kauê's GitHub stats](https://github-readme-stats.kauer3.vercel.app/api?username=kauer3&count_private=true&hide=stars&hide_border=true&show_icons=true&theme=merko)](https://github.com/kauer3/github-readme-stats)
-</details>
+<!--</details>-->
 
 ---
 
