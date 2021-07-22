@@ -30,7 +30,7 @@
 
 
 
-<p align="center">
+<!--<p align="center">-->
 
 > <h3><a href="https://kauer3.github.io/">My portfolio</a></h3>
 
@@ -48,4 +48,4 @@
 > <h3><a href="https://github.com/kauer3/insert-motions.vim">insert-motions.vim</a></h3>
 > <h3><a href="https://github.com/kauer3/folder.vim">folder.vim</a></h3>
 
-</p>
+<!--</p>-->
