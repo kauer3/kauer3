@@ -31,14 +31,19 @@
 
 
 <!--<p align="center">-->
-
+<br>
 > <h3><a href="https://kauer3.github.io/">My portfolio</a></h3>
-
 <br>
 
+---
+
+<br>
 <h3>For Google Chrome:</h3> 
 
 > <h3><a href="https://chrome.google.com/webstore/detail/slang-text-to-speech/enkmbkhkbdiaafkmofbmdahclajelgfh">Slang - Text to Speech</a></h3>
+<br>
+
+---
 
 <br>
 
