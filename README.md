@@ -23,7 +23,6 @@
 <summary>Github Stats</summary>
 
 [![Kauê's GitHub stats](https://github-readme-stats.kauer3.vercel.app/api?username=kauer3&count_private=true&hide=stars&hide_border=true&show_icons=true&theme=buefy)](https://github.com/kauer3/github-readme-stats)
-<img align="right" height="158" src="/images/dev.gif">
 </details>
 
 ---
