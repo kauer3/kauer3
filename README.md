@@ -29,7 +29,7 @@
 <!--<p align="center">-->
 <br>
 
-> <h3><a href="https://kauer3.github.io/">My portfolio</a></h3>
+> <h3>Check out some of my projects in my <a href="https://kauer3.github.io/">portfolio</a></h3>
 
 <br>
 <h3>For Google Chrome:</h3> 
