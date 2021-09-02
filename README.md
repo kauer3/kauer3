@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Tools-Vim-informational?style=flat&logo=Vim&color=3D883B">
-  <img src="https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791">
-  <img src="https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB0000">
-  <img src="https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=Yarn&color=2C8EBB">
-  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032">
-  <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717">
-  <img src="https://img.shields.io/badge/Tools-Insomnia-informational?style=flat&logo=Insomnia&color=3E028B">
-  <img src="https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837">
+  <img src="https://img.shields.io/badge/Tool-Vim-informational?style=flat&logo=Vim&color=3D883B">
+  <img src="https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791">
+  <img src="https://img.shields.io/badge/Tool-NPM-informational?style=flat&logo=NPM&color=CB0000">
+  <img src="https://img.shields.io/badge/Tool-Yarn-informational?style=flat&logo=Yarn&color=2C8EBB">
+  <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&color=F05032">
+  <img src="https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=GitHub&color=181717">
+  <img src="https://img.shields.io/badge/Tool-Insomnia-informational?style=flat&logo=Insomnia&color=3E028B">
+  <img src="https://img.shields.io/badge/Tool-NPM-informational?style=flat&logo=NPM&color=CB3837">
   <img src="https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=SQLite&color=003B57">
   <br>
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E">
