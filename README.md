@@ -45,30 +45,30 @@ React JS        |        Node.js
 <br>
 <br>
 
-<blockquote>
-  <h4 align="center"><i>Software is a great combination between artistry and engineering.</i></h4>
-</blockquote>
+  <h4 align="center"><i>"Software is a great combination between artistry and engineering."</i></h4>
 
 <br>
 <br>
 
-<h2>Here are some projects I'm currently working on in my spare time:</h2>
-
-- <h3><a href="https://github.com/kauer3/beesweeper-web">Beesweeper</a></h3>
-- <h3><a href="https://github.com/kauer3/folder.vim">folder.vim</a></h3>
+<h2>✏️ Here are some projects I'm currently working on:</h2>
+<ul>
+  <li><h3><a href="https://github.com/kauer3/beesweeper-web">Beesweeper</a></h3></li>
+  <li><h3><a href="https://github.com/kauer3/folder.vim">folder.vim</a></h3></li>
+</ul>
 <br>
-<h2>Here are some of my projects you can already use:</h2>
-
-- <h3><a href="https://chrome.google.com/webstore/detail/slang-text-to-speech/enkmbkhkbdiaafkmofbmdahclajelgfh">Slang - Text to Speech</a></h3>
-- <h3><a href="https://github.com/kauer3/paste-replace.vim">paste-replace.vim</a></h3>
-- <h3><a href="https://github.com/kauer3/insert-motions.vim">insert-motions.vim</a></h3>
+<h2>💻 Here are some of my projects you can already install:</h2>
+<ul>
+  <li><h3><a href="https://chrome.google.com/webstore/detail/slang-text-to-speech/enkmbkhkbdiaafkmofbmdahclajelgfh">Slang - Text to Speech</a></h3></li>
+  <li><h3><a href="https://github.com/kauer3/paste-replace.vim">paste-replace.vim</a></h3></li>
+  <li><h3><a href="https://github.com/kauer3/insert-motions.vim">insert-motions.vim</a></h3></li>
+</ul>
 <br>
-<h2>And here are the new things I'm learning:</h2>
-
-- <h3><a href="https://www.typescriptlang.org/">TypeScript</a></h3>
-- <h3><a href="https://reactnative.dev/">React Native</a></h3>
-
+<h2>📚 And here's what I'm learning:</h2>
+<ul>
+  <li><h3><a href="https://www.typescriptlang.org/">TypeScript</a></h3></li>
+  <li><h3><a href="https://reactnative.dev/">React Native</a></h3></li>
+</ul>
 <br>
 
-<h4>Check out my <a href="https://kauer3.github.io/" target="_blank" rel="noreferrer">portfolio</a> to learn more about me and what I do.
-You are also welcome to visit my <a href="https://www.linkedin.com/in/kauer3/" target="_blank" rel="noreferrer">linkedin</a> page!</h4>
+<h4 align="center">Check out my <a href="https://kauer3.github.io/" target="_blank" rel="noreferrer">portfolio</a> to learn more about me and what I do.
+You are also welcome to visit my <a href="https://www.linkedin.com/in/kauer3/" target="_blank" rel="noreferrer">LinkedIn</a> page!</h4>
