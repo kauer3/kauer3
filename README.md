@@ -20,9 +20,10 @@
   <img src="https://img.shields.io/badge/Style-Styled--Components-informational?style=flat&logo=styled-components&color=CC6699">
   <img src="https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&color=DB7093">
   <img src="https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3">
+  <br>
+  <br>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=kauer3.kauer3" alt="visitor badge"/>
 </p>
-
-<br>
 
 <h3 align="center">
 Hi there, I'm <a href="https://kauer3.github.io/" target="_blank" rel="noreferrer">Kauê</a> 👋
