@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&color=DB7093">
   <img src="https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3">
   <br>
-  <!--<img src="https://visitor-badge.glitch.me/badge?page_id=kauer3.kauer3" alt="visitors counter">-->
   <br>
   <img src="https://komarev.com/ghpvc/?username=kauer3&color=00aaaa&label=Visitors+counter">
 </p>
@@ -73,5 +72,23 @@ React JS        |        Node.js
 </ul>
 <br>
 
-<h4 align="center">Check out my <a href="https://kauer3.github.io/" target="_blank" rel="noreferrer">portfolio</a> to learn more about me and what I do.
-You are also welcome to visit my <a href="https://www.linkedin.com/in/kauer3/" target="_blank" rel="noreferrer">LinkedIn</a> page!</h4>
+<details align="center">
+  <summary><b>Check out my <a href="https://kauer3.github.io/" target="_blank" rel="noreferrer">portfolio</a> to learn more about me and what I do.
+You are also welcome to visit my <a href="https://www.linkedin.com/in/kauer3/" target="_blank" rel="noreferrer">LinkedIn</a> page!</b><br>(Click for QR Code)</summary>
+  
+<br>
+<table align="center">
+  <tr>
+    <th><b><a href="https://kauer3.github.io/" target="_blank" rel="noreferrer">Portfolio</a></b></th>
+    <th><b><a href="https://www.linkedin.com/in/kauer3/" target="_blank" rel="noreferrer">LinkedIn</a></b></th>
+  </tr>
+  <tr>
+    <td>
+      <img src="images/portfolio.png" alt="Portfolio QR Code">
+    </td>
+    <td>
+      <img src="images/linkedin.png" alt="LinkedIn QR Code">
+    </td>
+  </tr>
+</table>
+</details>
