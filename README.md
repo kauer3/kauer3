@@ -24,10 +24,11 @@
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=30" width="180">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=30&reversal=true" width="180">
   <br>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=kauer3&color=00aaaa&label=Visitors+counter">
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5&section=footer" width="315">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5" width="315">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5&section=footer" width="305">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5" width="305">
 </p>
 
 <h2 align="center">
@@ -57,8 +58,8 @@ React JS        |         Node.js
 </p>
 <br>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=25" width="330">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=25&reversal=true" width="330">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=30" width="330">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=30&reversal=true" width="330">
 </p>
 <br>
 <h2>✏️ Here are some projects I'm currently working on:</h2>
@@ -82,7 +83,7 @@ React JS        |         Node.js
 <br>
 <br>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="700">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="620">
 </p>
 <details align="center">
   <summary><b>Check out my <a href="https://kauer3.github.io/" target="_blank" rel="noreferrer">portfolio</a> to learn more about me and what I do.
