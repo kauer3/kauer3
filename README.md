@@ -48,7 +48,7 @@ React JS        |        Node.js
 <h4 align="center"><i>"Software is a great combination between artistry and engineering." - Bill Gates</i></h4>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="550">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="530">
 </p>
 
 <br>
