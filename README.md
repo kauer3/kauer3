@@ -33,7 +33,7 @@ Hi there, I'm <a href="https://kauer3.github.io/" target="_blank" rel="noreferre
 I'm a professional Web Developer! 💻
 </h2> 
 <h3 align="center">
-React JS        |        Node.js
+React JS         |         Node.js
 </h3> 
 
 <br>
