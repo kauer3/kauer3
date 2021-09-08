@@ -46,7 +46,11 @@ React JS        |        Node.js
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="427">
 </p>
 <h4 align="center"><i>"Software is a great combination between artistry and engineering."</i></h4>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1">
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="500">
+</p>
+
 <br>
 
 <h2>✏️ Here are some projects I'm currently working on:</h2>
