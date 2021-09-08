@@ -42,7 +42,7 @@ I'm a professional Web Developer 💻
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="730">
 </p>
 <h3 align="center">
-React JS        |         Node.js
+React JS        |        Node.js
 </h3>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="580">
