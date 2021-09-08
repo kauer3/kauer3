@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26">
   <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=A8B9CC">
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB">
-   <img src="https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&color=0F3D2D">
+  <img src="https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&color=0F3D2D">
   <br>
   <img src="https://img.shields.io/badge/Tool-Vim-informational?style=flat&logo=Vim&color=3D883B">
   <img src="https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791">
@@ -21,12 +21,13 @@
   <img src="https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&color=DB7093">
   <img src="https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3">
   <br>
+  <!--<img src="https://visitor-badge.glitch.me/badge?page_id=kauer3.kauer3" alt="visitors counter">-->
   <br>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=kauer3.kauer3" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=kauer3&color=00aaaa&label=Visitors+counter">
 </p>
-
+  
 <h3 align="center">
-Hi there, I'm <a href="https://kauer3.github.io/" target="_blank" rel="noreferrer">Kauê</a> 👋
+Hi there, I'm <a href="https://kauer3.github.io/" target="_blank" rel="noreferrer">Kauê</a> <img width="23px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 </h3>
 
 <h2 align="center">
@@ -40,15 +41,12 @@ React JS        |        Node.js
 
 <p align="center">
   <img src="https://github-readme-stats-kauer3.vercel.app/api?username=kauer3&count_private=true&hide_border=true&show_icons=true&theme=radical" alt="Kauê's GitHub stats">
+  <br>
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="450">
 </p>
-
-<br>
-<br>
-<br>
-
-  <h4 align="center"><i>"Software is a great combination between artistry and engineering."</i></h4>
-
-<br>
+<h4 align="center"><i>"Software is a great combination between artistry and engineering."</i></h4>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1">
 <br>
 
 <h2>✏️ Here are some projects I'm currently working on:</h2>
