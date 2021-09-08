@@ -21,26 +21,30 @@
   <img src="https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&color=DB7093">
   <img src="https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3">
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=5" width="427"/>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=5&section=footer" width="427"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=30" width="180">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=30&reversal=true" width="180">
+  <br>
   <img src="https://komarev.com/ghpvc/?username=kauer3&color=00aaaa&label=Visitors+counter">
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5&section=footer" width="315">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5" width="315">
 </p>
-  
+
 <h2 align="center">
-Hi there, I'm <a href="https://kauer3.github.io/" target="_blank" rel="noreferrer">Kauê</a>!<img width="23px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
+Hi there, I'm <a href="https://kauer3.github.io/" target="_blank" rel="noreferrer">Kauê</a>! <img width="23px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 </h2>
 
 <h3 align="center">
-I'm a professional Web Developer! 💻
+I'm a professional Web Developer 💻
 </h3>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&section=footer" width="730">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="730">
 </p>
 <h3 align="center">
 React JS        |         Node.js
 </h3>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="590">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="580">
 </p>
 <h4 align="center"><i>"Software is a great combination between artistry and engineering." - Bill Gates</i></h4>
 <p align="center">
@@ -50,18 +54,13 @@ React JS        |         Node.js
 
 <p align="center">
   <img src="https://github-readme-stats-kauer3.vercel.app/api?username=kauer3&count_private=true&hide_border=true&show_icons=true&theme=radical" alt="Kauê's GitHub stats">
-  <br>
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="427">
 </p>
-<h4 align="center"><i>"Software is a great combination between artistry and engineering." - Bill Gates</i></h4>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="530">
-</p>
-
 <br>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=25" width="330">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=25&reversal=true" width="330">
+</p>
+<br>
 <h2>✏️ Here are some projects I'm currently working on:</h2>
 <ul>
   <li><h3><a href="https://github.com/kauer3/beesweeper-web">Beesweeper</a></h3></li>
@@ -81,7 +80,10 @@ React JS        |         Node.js
   <li><h3><a href="https://reactnative.dev/">React Native</a></h3></li>
 </ul>
 <br>
-
+<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="700">
+</p>
 <details align="center">
   <summary><b>Check out my <a href="https://kauer3.github.io/" target="_blank" rel="noreferrer">portfolio</a> to learn more about me and what I do.
 You are also welcome to visit my <a href="https://www.linkedin.com/in/kauer3/" target="_blank" rel="noreferrer">LinkedIn</a> page!</b><br>☰ Click for QR Code</summary>
@@ -103,5 +105,5 @@ You are also welcome to visit my <a href="https://www.linkedin.com/in/kauer3/" t
 </table>
 </details>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
