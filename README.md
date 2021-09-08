@@ -33,15 +33,13 @@ Hi there, I'm <a href="https://kauer3.github.io/" target="_blank" rel="noreferre
 I'm a professional Web Developer! 💻
 </h3>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5" width="455">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5&section=footer" width="455">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&section=footer" width="750">
 </p>
 <h3 align="center">
 React JS         |          Node.js
 </h3>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5" width="427">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5&section=footer" width="427">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="600">
 </p>
 
 <br>
