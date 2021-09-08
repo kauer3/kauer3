@@ -25,16 +25,24 @@
   <img src="https://komarev.com/ghpvc/?username=kauer3&color=00aaaa&label=Visitors+counter">
 </p>
   
-<h3 align="center">
-Hi there, I'm <a href="https://kauer3.github.io/" target="_blank" rel="noreferrer">Kauê</a> <img width="23px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
-</h3>
-
 <h2 align="center">
-I'm a professional Web Developer! 💻
-</h2> 
+Hi there, I'm <a href="https://kauer3.github.io/" target="_blank" rel="noreferrer">Kauê</a>!<img width="23px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
+</h2>
+
 <h3 align="center">
-React JS         |         Node.js
-</h3> 
+I'm a professional Web Developer! 💻
+</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5" width="455">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5&section=footer" width="455">
+</p>
+<h3 align="center">
+React JS         |          Node.js
+</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5" width="427">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5&section=footer" width="427">
+</p>
 
 <br>
 
