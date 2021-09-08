@@ -21,7 +21,8 @@
   <img src="https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&color=DB7093">
   <img src="https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3">
   <br>
-  <br>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=5" width="427"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=5&section=footer" width="427"/>
   <img src="https://komarev.com/ghpvc/?username=kauer3&color=00aaaa&label=Visitors+counter">
 </p>
   
@@ -33,15 +34,18 @@ Hi there, I'm <a href="https://kauer3.github.io/" target="_blank" rel="noreferre
 I'm a professional Web Developer! 💻
 </h3>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&section=footer" width="750">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&section=footer" width="730">
 </p>
 <h3 align="center">
-React JS         |          Node.js
+React JS        |         Node.js
 </h3>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="600">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="590">
 </p>
-
+<h4 align="center"><i>"Software is a great combination between artistry and engineering." - Bill Gates</i></h4>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="460">
+</p>
 <br>
 
 <p align="center">
@@ -98,3 +102,6 @@ You are also welcome to visit my <a href="https://www.linkedin.com/in/kauer3/" t
   </tr>
 </table>
 </details>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=footer"/>
+</p>
