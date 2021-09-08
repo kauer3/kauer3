@@ -42,7 +42,7 @@ React JS        |        Node.js
   <img src="https://github-readme-stats-kauer3.vercel.app/api?username=kauer3&count_private=true&hide_border=true&show_icons=true&theme=radical" alt="Kauê's GitHub stats">
   <br>
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="430">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="427">
 </p>
 <h4 align="center"><i>"Software is a great combination between artistry and engineering." - Bill Gates</i></h4>
 
@@ -74,7 +74,7 @@ React JS        |        Node.js
 
 <details align="center">
   <summary><b>Check out my <a href="https://kauer3.github.io/" target="_blank" rel="noreferrer">portfolio</a> to learn more about me and what I do.
-You are also welcome to visit my <a href="https://www.linkedin.com/in/kauer3/" target="_blank" rel="noreferrer">LinkedIn</a> page!</b><br>(Click for QR Code)</summary>
+You are also welcome to visit my <a href="https://www.linkedin.com/in/kauer3/" target="_blank" rel="noreferrer">LinkedIn</a> page!</b><br>☰ Click for QR Code</summary>
   
 <br>
 <table align="center">
@@ -84,10 +84,10 @@ You are also welcome to visit my <a href="https://www.linkedin.com/in/kauer3/" t
   </tr>
   <tr>
     <td>
-      <img src="images/portfolio.png" alt="Portfolio QR Code">
+      <img src="images/portfolio.png" alt="Portfolio QR Code" width="200">
     </td>
     <td>
-      <img src="images/linkedin.png" alt="LinkedIn QR Code">
+      <img src="images/linkedin.png" alt="LinkedIn QR Code" width="200">
     </td>
   </tr>
 </table>
