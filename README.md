@@ -43,12 +43,12 @@ React JS        |        Node.js
   <img src="https://github-readme-stats-kauer3.vercel.app/api?username=kauer3&count_private=true&hide_border=true&show_icons=true&theme=radical" alt="Kauê's GitHub stats">
   <br>
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="427">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="430">
 </p>
-<h4 align="center"><i>"Software is a great combination between artistry and engineering."</i></h4>
+<h4 align="center"><i>"Software is a great combination between artistry and engineering." - Bill Gates</i></h4>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="500">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="550">
 </p>
 
 <br>
