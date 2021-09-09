@@ -21,14 +21,13 @@
   <img src="https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&color=DB7093">
   <img src="https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3">
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=30" width="180">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=30&reversal=true" width="180">
-  <br>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90" width="180">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90&reversal=true" width="180">
   <br>
   <img src="https://komarev.com/ghpvc/?username=kauer3&color=00aaaa&label=Visitors+counter">
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5&section=footer" width="305">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5" width="305">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5&section=footer" width="300">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5" width="300">
 </p>
 
 <h2 align="center">
