@@ -37,14 +37,10 @@
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5" width="260">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5&section=footer" width="260">
   <br>
-  <!--<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5&section=footer" width="217">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5" width="217">-->
   <br>
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5" width="311">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5&section=footer" width="311">
   <br>
-  <!--<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5&section=footer" width="283">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5" width="283">-->
   <br>
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5" width="348">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5&section=footer" width="348">
@@ -87,17 +83,20 @@ React JS           ※            No
   <br>
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5" width="117">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5&section=footer" width="117">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=🐬&animation=twinkling&desc=🐡             🐟                          🐠      "/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=150&section=footer&text=🐬&fontAlignY=35&animation=twinkling&desc=🐡             🐟                          🐠      "/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="700">
 </p>
+<img align="right" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=795" width="135">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=20" width="620">
+<h3 align="left">Random quote or fun fact of the day:</h3>
 <p>
-  <img align="left" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=700&reversal=true" width="100">
   <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
   <!--STARTS_HERE_QUOTE_README-->
 <i>❝One of the first instances of a stored computer program was in 1801 when Joseph Marie Jacquard demonstrated a loom that wove fabrics based on hole-punched cards that were fed into the machine.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
-  <img align="right" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=700" width="100">
 </p>
+<br>
 <br>
 <br>
 <p align="center">
