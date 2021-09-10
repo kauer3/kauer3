@@ -21,36 +21,66 @@
   <img src="https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&color=DB7093">
   <img src="https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3">
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90" width="180">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90&reversal=true" width="180">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200" width="220">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&reversal=true" width="220">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=kauer3&color=00aaaa&label=Visitors+counter">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5&section=footer" width="86">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5" width="86">
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5&section=footer" width="160">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5" width="160">
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5&section=footer" width="220">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5" width="220">
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5&section=footer" width="255">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5" width="255">
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5&section=footer" width="280">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5" width="280">
   <br>
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5&section=footer" width="300">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5" width="300">
+  <br>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=kauer3&color=00aaaa&label=Visitors+counter">
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5&section=footer" width="340">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5" width="340">
 </p>
 
-<h2 align="center">
+<h3 align="center">
 Hi there, I'm <a href="https://kauer3.github.io/" target="_blank" rel="noreferrer">Kauê</a>! <img width="23px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
-</h2>
+</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5&section=footer" width="355">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5" width="355">
+</p>
 
 <h3 align="center">
 I'm a professional Web Developer 💻
 </h3>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="730">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5&section=footer" width="340">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5" width="340">
 </p>
 <h3 align="center">
 React JS        |        Node.js
 </h3>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="580">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5&section=footer" width="300">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5" width="300">
 </p>
 <h4 align="center"><i>"Software is a great combination between artistry and engineering." - Bill Gates</i></h4>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="460">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5&section=footer" width="225">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5" width="225"><br>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5&section=footer" width="180">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5" width="180"><br>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5&section=footer" width="90">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=5" width="90">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
 </p>
-<br>
 
 <p align="center">
   <img src="https://github-readme-stats-kauer3.vercel.app/api?username=kauer3&count_private=true&hide_border=true&show_icons=true&theme=radical" alt="Kauê's GitHub stats">
@@ -63,7 +93,7 @@ React JS        |        Node.js
 <br>
 <h2>✏️ Here are some projects I'm currently working on:</h2>
 <ul>
-  <li><h3><a href="https://github.com/kauer3/beesweeper-web">Beesweeper</a></h3></li>
+  <li><h3><a href="https://kauer3.github.io/beesweeper-web/">Beesweeper</a></h3></li>
   <li><h3><a href="https://github.com/kauer3/folder.vim">folder.vim</a></h3></li>
 </ul>
 <br>
