@@ -21,8 +21,8 @@
   <img src="https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&color=DB7093">
   <img src="https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3">
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200" width="220">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&reversal=true" width="220">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=200" width="220">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=200&reversal=true" width="220">
   <br>
   <br>
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9&height=5" width="105">
@@ -87,8 +87,8 @@ React JS           ※            No
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,2,2,3,4,4,4,4,6,7,12,12,12,12,17,19,19,19,19,23,23,23,23,24,26,26,27,30,30&height=150&section=footer&text=🐬&fontAlignY=35&animation=twinkling&desc=🐡             🐟                          🐠      "/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="700">
 </p>
-<img align="right" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=795" width="150">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=20" width="665">
+<img align="right" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9&height=795" width="150">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10&height=20&reversal=true" width="665">
 <h3 align="left">Random quote or fun fact of the day:</h3>
 <p>
   <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
