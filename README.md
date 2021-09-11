@@ -25,65 +25,65 @@
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&reversal=true" width="220">
   <br>
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9,10,11&height=5" width="93">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9,10,11&height=5&reversal=true" width="93">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9&height=5" width="105">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9&height=5&reversal=true" width="105">
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9,10,11&height=6" width="174">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9,10,11&height=6&reversal=true" width="174">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=6" width="174">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=6&reversal=true" width="174">
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9,10,11&height=7" width="223">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9,10,11&height=7&reversal=true" width="223">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=7" width="223">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=7&reversal=true" width="223">
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9,10,11&height=8" width="260">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9,10,11&height=8&reversal=true" width="260">
-  <br>
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9,10,11&height=10" width="311">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9,10,11&height=10&reversal=true" width="311">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=8" width="260">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=8&reversal=true" width="260">
   <br>
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9,10,11&height=12" width="348">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9,10,11&height=12&reversal=true" width="348">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=10" width="311">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=10&reversal=true" width="311">
+  <br>
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=12" width="348">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=12&reversal=true" width="348">
   <br>
   <br>
   <img src="https://komarev.com/ghpvc/?username=kauer3&color=00aaaa&label=Visitors+counter">
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9,10,11&height=14" width="381">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9,10,11&height=14&reversal=true" width="381">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=14" width="381">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=14&reversal=true" width="381">
 </p>
 
 <h3 align="center">
 Hi there, I'm <a href="https://kauer3.github.io/" target="_blank" rel="noreferrer">Kauê</a>! <img width="23px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 </h3>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9,10,11&height=16" width="395">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9,10,11&height=16&reversal=true" width="395">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=16" width="395">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=16&reversal=true" width="395">
 </p>
 
 <h3 align="center">
 I'm a professional Web Developer 💻
 </h3>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9,10,11&height=14" width="381">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9,10,11&height=14&reversal=true" width="381">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=14" width="381">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=14&reversal=true" width="381">
 </p>
 <h3 align="center">
 React JS           ※            Node.js
 </h3>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9,10,11&height=12" width="340">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9,10,11&height=12&reversal=true" width="340">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=12" width="340">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=12&reversal=true" width="340">
 </p>
 <h4 align="center"><i>"Software is a great combination between artistry and engineering." - Bill Gates</i></h4>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9,10,11&height=10" width="255">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9,10,11&height=10&reversal=true" width="255">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=10" width="255">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=10&reversal=true" width="255">
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9,10,11&height=8" width="218">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9,10,11&height=8&reversal=true" width="218">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=8" width="218">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=8&reversal=true" width="218">
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9,10,11&height=6" width="117">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9,10,11&height=6&reversal=true" width="117">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9&height=6" width="140">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9&height=6&reversal=true" width="140">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,2,2,3,4,4,4,4,6,7,12,12,12,12,17,19,19,19,19,23,23,23,23,24,26,26,27,30,30&height=150&section=footer&text=🐬&fontAlignY=35&animation=twinkling&desc=🐡             🐟                          🐠      "/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="700">
 </p>
@@ -103,12 +103,12 @@ React JS           ※            No
 <p align="center">
   <img src="https://github-readme-stats-kauer3.vercel.app/api?username=kauer3&count_private=true&hide_border=true&show_icons=true&theme=radical" alt="Kauê's GitHub stats">
 </p>
-<br>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=30" width="330">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=30&reversal=true" width="330">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50" width="180">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50&reversal=true" width="180">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50" width="180">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50&reversal=true" width="180">
 </p>
-<br>
 <h2>✏️ Here are some projects I'm currently working on:</h2>
 <ul>
   <li><h3><a href="https://kauer3.github.io/beesweeper-web/">Beesweeper</a></h3></li>
