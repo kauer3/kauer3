@@ -103,12 +103,14 @@ React JS           ※            No
 <p align="center">
   <img src="https://github-readme-stats-kauer3.vercel.app/api?username=kauer3&count_private=true&hide_border=true&show_icons=true&theme=radical" alt="Kauê's GitHub stats">
 </p>
+<br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50" width="180">
   <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50&reversal=true" width="180">
   <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50" width="180">
   <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50&reversal=true" width="180">
 </p>
+<br>
 <h2>✏️ Here are some projects I'm currently working on:</h2>
 <ul>
   <li><h3><a href="https://kauer3.github.io/beesweeper-web/">Beesweeper</a></h3></li>
