@@ -88,7 +88,7 @@ React JS           ※            No
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="700">
 </p>
 <img align="right" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=795" width="150">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=20" width="700">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=20" width="680">
 <h3 align="left">Random quote or fun fact of the day:</h3>
 <p>
   <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
