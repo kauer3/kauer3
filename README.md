@@ -84,7 +84,7 @@ React JS           ※            No
   <br>
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9&height=6" width="140">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9&height=6&reversal=true" width="140">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,2,2,3,4,4,4,4,6,7,12,12,12,12,17,19,19,19,19,23,23,23,23,24,26,26,27,30,30&height=150&section=footer&text=🐬&fontAlignY=35&animation=twinkling&desc=🐡             🐟                          🐠      "/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,2,2,3,4,4,4,4,6,7,12,12,12,12,17,19,19,19,19,23,23,23,23,24,26,26,27,30,30&height=150&section=footer&text=🐬&fontAlignY=32&descAlignY=77&animation=twinkling&desc=🐡             🐟                          🐠      "/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="700">
 </p>
 <img align="right" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9&height=795" width="150">
