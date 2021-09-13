@@ -21,74 +21,74 @@
   <img src="https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&color=DB7093">
   <img src="https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3">
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=200" width="220">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=200&reversal=true" width="220">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FF0000,30:F76014,65:F28F19,100:FFEF52&height=150" width="220">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FF0000,30:F76014,65:F28F19,100:FFEF52&height=150&reversal=true" width="220">
   <br>
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9&height=5" width="105">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9&height=5&reversal=true" width="105">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:F76014,60:FFEC02&height=5" width="105">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:F76014,60:FFEC02&height=5&reversal=true" width="105">
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=6" width="174">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=6&reversal=true" width="174">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,10:F76014,40:FFEC02&height=6" width="174">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,10:F76014,40:FFEC02&height=6&reversal=true" width="174">
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=7" width="223">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=7&reversal=true" width="223">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,10:F76014,40:FCD005&height=7" width="223">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,10:F76014,40:FCD005&height=7&reversal=true" width="223">
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=8" width="260">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=8&reversal=true" width="260">
-  <br>
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=10" width="311">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=10&reversal=true" width="311">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,15:F76014,45:F7B313&height=8" width="260">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,15:F76014,45:F7B313&height=8&reversal=true" width="260">
   <br>
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=12" width="348">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=12&reversal=true" width="348">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,20:F76014,50:F0A81D&height=10" width="311">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,20:F76014,50:F0A81D&height=10&reversal=true" width="311">
+  <br>
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,50:F29B1A&height=12" width="348">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,50:F29B1A&height=12&reversal=true" width="348">
   <br>
   <br>
   <img src="https://komarev.com/ghpvc/?username=kauer3&color=00aaaa&label=Visitors+counter">
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=14" width="381">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=14&reversal=true" width="381">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,70:F28F19&height=14" width="381">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FA0E09,70:F28F19&height=14&reversal=true" width="381">
 </p>
 
 <h3 align="center">
 Hi there, I'm <a href="https://kauer3.github.io/" target="_blank" rel="noreferrer">Kauê</a>! <img width="23px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 </h3>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=16" width="395">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=16&reversal=true" width="395">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=20:ff0000,80:F47D17&height=16" width="395">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=20:ff0000,80:F47D17&height=16&reversal=true" width="395">
 </p>
 
 <h3 align="center">
 I'm a professional Web Developer 💻
 </h3>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=14" width="381">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=14&reversal=true" width="381">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=40:ff0000,100:F76014&height=14" width="381">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=40:ff0000,100:F76014&height=14&reversal=true" width="381">
 </p>
 <h3 align="center">
 React JS           ※            Node.js
 </h3>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=12" width="340">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=12&reversal=true" width="340">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=60:ff0000,100:FA3D11&height=12" width="340">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=60:ff0000,100:FA3D11&height=12&reversal=true" width="340">
 </p>
 <h4 align="center"><i>"Software is a great combination between artistry and engineering." - Bill Gates</i></h4>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=10" width="255">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=10&reversal=true" width="255">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=80:ff0000,100:FA3D11&height=10" width="255">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=80:ff0000,100:FA3D11&height=10&reversal=true" width="255">
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=8" width="218">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10&height=8&reversal=true" width="218">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=60:ff0000,100:FA0E09&height=8" width="218">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=60:ff0000,100:FA0E09&height=8&reversal=true" width="218">
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9&height=6" width="140">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9&height=6&reversal=true" width="140">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,2,2,3,4,4,4,4,6,7,12,12,12,12,17,19,19,19,19,23,23,23,23,24,26,26,27,30,30&height=150&section=footer&text=🐬&fontAlignY=32&descAlignY=77&animation=twinkling&desc=🐡             🐟                          🐠      "/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="700">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=60:ff0000,100:FA0E09&height=6" width="140">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=60:ff0000,100:FA0E09&height=6&reversal=true" width="140">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3BC8BA00,10:3BC8BA,30:22A8D2,50:BA7549,70:54BBC8,90:01786E,100:01786E00&height=150&section=footer&text=🐬&fontAlignY=32&descAlignY=77&animation=twinkling&desc=🐡             🐟                          🐠      "/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3BC8BA00,10:3BC8BA,30:22A8D2,50:BA7549,70:54BBC8,90:01786E,100:01786E00&height=1&section=footer" width="700">
 </p>
-<img align="right" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9&height=795" width="150">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10&height=20&reversal=true" width="665">
+<img align="right" src="https://capsule-render.vercel.app/api?type=slice&color=10:CF00F300,55:F70000,85:FA7600,100:FBFC07,&height=795" width="150">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F70000,14:FA7600,28:FBFC07,42:13DC17,56:00D0FE,70:0270FC,84:CF00F3,100:CF00F300&height=20" width="650">
 <h3 align="left">Random quote or fun fact of the day:</h3>
 <p>
   <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
