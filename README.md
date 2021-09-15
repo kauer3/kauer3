@@ -121,7 +121,6 @@ React JS           ※            No
 <ul>
   <li><h3><a href="https://chrome.google.com/webstore/detail/slang-text-to-speech/enkmbkhkbdiaafkmofbmdahclajelgfh">Slang - Text to Speech</a></h3></li>
   <li><h3><a href="https://github.com/kauer3/paste-replace.vim">paste-replace.vim</a></h3></li>
-  <li><h3><a href="https://github.com/kauer3/insert-motions.vim">insert-motions.vim</a></h3></li>
 </ul>
 <br>
 <h2>📚 And here's what I'm learning:</h2>
