@@ -127,6 +127,7 @@ React JS           ※            No
 <ul>
   <li><h3><a href="https://www.typescriptlang.org/">TypeScript</a></h3></li>
   <li><h3><a href="https://reactnative.dev/">React Native</a></h3></li>
+  <li><h3><a href="https://aws.amazon.com/">AWS</a></h3></li>
 </ul>
 <br>
 <br>
