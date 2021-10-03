@@ -93,7 +93,7 @@ React JS           ※            No
 <p>
   <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝The Space Invaders game was intended to always be played at the same speed, but as you destroy more aliens, the computer can render faster. This is why the aliens speed up as you near the end of the level.❞</i>
+<i>❝“Companies spend millions of dollars on firewalls, encryption and secure access devices, and it’s money wasted, because none of these measures address the weakest link in the security chain.”— Kevin Mitnick   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
