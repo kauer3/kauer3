@@ -93,7 +93,7 @@ React JS           ※            No
 <p>
   <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Computer Science is no more about computers than astronomy is about telescopes.”— Edsger W. Dijkstra  ❞</i>
+<i>❝“Companies spend millions of dollars on firewalls, encryption and secure access devices, and it’s money wasted, because none of these measures address the weakest link in the security chain.”— Kevin Mitnick   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
