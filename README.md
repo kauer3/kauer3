@@ -93,7 +93,7 @@ React JS           ※            No
 <p>
   <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝The microcontroller inside a MacBook charger is about as powerful as the original Macintosh computer.❞</i>
+<i>❝“Java is the most distressing thing to hit computing since MS-DOS.”— Alan Kay  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
