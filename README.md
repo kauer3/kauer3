@@ -93,7 +93,7 @@ React JS           ※            No
 <p>
   <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝“A computer once beat me at chess, but it was no match for me at kick boxing.”— Emo Philips  ❞</i>
+<i>❝“Getting information off the Internet is like taking a drink from a fire hydrant.”— Mitchell Kapor  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
