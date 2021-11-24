@@ -68,7 +68,7 @@ I'm a professional Web Developer 💻
   <img src="https://capsule-render.vercel.app/api?type=slice&color=40:ff0000,100:F76014&height=14&reversal=true" width="381">
 </p>
 <h3 align="center">
-React JS           ※            Node.js
+React JS          ※             Node.js
 </h3>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=60:ff0000,100:FA3D11&height=12" width="340">
