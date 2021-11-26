@@ -93,7 +93,7 @@ React JS          ※             Node
 <p>
   <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Computer viruses are an urban legend.”— Peter Norton, 1988   ❞</i>
+<i>❝“Yes, we have a dress code. You have to dress.”— Scott McNealy, co-founder of Sun Microsystems   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
