@@ -93,7 +93,7 @@ React JS          ※             Node
 <p>
   <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝The first microprocessor created by Intel was the It was designed for a calculator, and in that time nobody imagined where it would lead.❞</i>
+<i>❝“Hoaxes use weaknesses in human behavior to ensure they are replicated and distributed.  In other words, hoaxes prey on the Human Operating System.”— Stewart Kirkpatrick   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
