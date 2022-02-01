@@ -93,7 +93,7 @@ React JS          ※             Node
 <p>
   <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝The first Apple computer ever made by Steve Jobs and Steve Wozniak was made from old parts they collected for free from their staff!❞</i>
+<i>❝“How rare it is that maintaining someone else’s code is akin to entering a beautifully designed building, which you admire as you walk around and plan how to add a wing or do some redecorating. More often, maintaining someone else’s code is like being thrown headlong into a big pile of slimy, smelly garbage.”— Bill Venners   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
