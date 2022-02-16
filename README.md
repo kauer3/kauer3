@@ -93,7 +93,7 @@ React JS          ※             Node
 <p>
   <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Java is the most distressing thing to hit computing since MS-DOS.”— Alan Kay  ❞</i>
+<i>❝“The great thing about predictions is that you can be wrong.”— Chris Wiggins❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
