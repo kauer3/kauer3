@@ -93,7 +93,7 @@ React JS          ※             Node
 <p>
   <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝“It’s OK to figure out murder mysteries, but you shouldn’t need to figure out code.  You should be able to read it.”— Steve McConnell   ❞</i>
+<i>❝American mathematician Marion Tinsley played checkers for 45 years and lost only 7 games. He once beat a computer program, and later analysis showed that Tinsley had played the only possible winning strategy from 64 moves out.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
