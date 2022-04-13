@@ -93,7 +93,7 @@ React JS          ※             Node
 <p>
   <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝YouTube was founded by 3 former employees of PayPal.❞</i>
+<i>❝TYPEWRITER is the longest word that you can write using the letters only on one row of the keyboard of your computer.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
