@@ -93,7 +93,7 @@ React JS          ※             Node
 <p>
   <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Manually managing blocks of memory in C is like juggling bars of soap in a prison shower: It’s all fun and games until you forget about one of them.”— anonymous Usenet user   ❞</i>
+<i>❝“The most likely way for the world to be destroyed, most experts agree, is by accident.  That’s where we come in; we’re computer professionals.  We cause accidents.”— Nathaniel Borenstein   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
