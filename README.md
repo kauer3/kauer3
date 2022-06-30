@@ -93,7 +93,7 @@ React JS          ※             Node
 <p>
   <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Tell me and I forget.  Teach me and I remember.  Involve me and I learn.”— Benjamin Franklin   ❞</i>
+<i>❝“Passwords are like underwear: you don’t let people see it, you should change it very often, and you shouldn’t share it with strangers.”— Chris Pirillo   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
