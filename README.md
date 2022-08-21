@@ -93,7 +93,7 @@ React JS          ※             Node
 <p>
   <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝“We need above all to know about changes; no one wants or needs to be reminded 16 hours a day that his shoes are on.”— David Hubel   ❞</i>
+<i>❝“It was a joke, okay?  If we thought it would actually be used, we wouldn’t have written it!”— Mark Andreesen, speaking of the HTML tag BLINK      ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
