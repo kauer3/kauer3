@@ -93,7 +93,7 @@ React JS          ※             Node
 <p>
   <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝In 1833, Charles Babbage invented all the parts a modern computer uses, but it wasn’t until 120 years later that the first modern computers were invented.❞</i>
+<i>❝“Yes, we have a dress code. You have to dress.”— Scott McNealy, co-founder of Sun Microsystems   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
