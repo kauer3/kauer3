@@ -93,7 +93,7 @@ React JS          ※             Node
 <p>
   <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝The password for the computer controls of nuclear-tipped missiles of the U.S was 00000000 for eight years.❞</i>
+<i>❝“Programs must be written for people to read, and only incidentally for machines to execute.”— Abelson and Sussman   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
