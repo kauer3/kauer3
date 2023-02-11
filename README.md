@@ -93,7 +93,7 @@ React JS          ※             Node
 <p>
   <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝Only 2 out of the top 500 supercomputers run on Windows, and 485 are Linux.❞</i>
+<i>❝In 2010, a high school named Lower Merion School District in Pennsylvania issued a MacBook to each of its 2,306 students, then remotely activated the webcams to spy on the students at home.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
