@@ -1,25 +1,24 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E">
+  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=3178c6">
   <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB">
+  <img src="https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=Next.js&color=262525">
   <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&color=3D883B">
-  <img src="https://img.shields.io/badge/Code-AdonisJS-informational?style=flat&logo=AdonisJS&color=20004F">
-  <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26">
-  <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=A8B9CC">
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB">
-  <img src="https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&color=0F3D2D">
+  <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=A8B9CC">
   <br>
-  <img src="https://img.shields.io/badge/Tool-Vim-informational?style=flat&logo=Vim&color=3D883B">
-  <img src="https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791">
-  <img src="https://img.shields.io/badge/Tool-NPM-informational?style=flat&logo=NPM&color=CB0000">
-  <img src="https://img.shields.io/badge/Tool-Yarn-informational?style=flat&logo=Yarn&color=2C8EBB">
-  <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&color=F05032">
-  <img src="https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=GitHub&color=181717">
-  <img src="https://img.shields.io/badge/Tool-Insomnia-informational?style=flat&logo=Insomnia&color=3E028B">
+  <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&color=f05032">
+  <img src="https://img.shields.io/badge/Tool-Vite-informational?style=flat&logo=Vite&color=646cff">
+  <img src="https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=Postman&color=ff6c37">
+  <img src="https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=Figma&color=df4f25">
+  <img src="https://img.shields.io/badge/Tool-Linux-informational?style=flat&logo=Linux&color=fcc624">
+  <img src="https://img.shields.io/badge/Tool-Nix-informational?style=flat&logo=NixOS&color=5275bd">
+  <img src="https://img.shields.io/badge/Tool-Neovim-informational?style=flat&logo=Neovim&color=57a143">
   <br>
   <img src="https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6">
   <img src="https://img.shields.io/badge/Style-Styled--Components-informational?style=flat&logo=styled-components&color=CC6699">
   <img src="https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&color=DB7093">
-  <img src="https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3">
+  <img src="https://img.shields.io/badge/Style-Tailwind CSS-informational?style=flat&logo=TailwindCSS&color=10abc5">
   <br>
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FF0000,30:F76014,65:F28F19,100:FFEF52&height=150" width="220">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FF0000,30:F76014,65:F28F19,100:FFEF52&height=150&reversal=true" width="220">
@@ -68,7 +67,7 @@ I'm a professional Web Developer 💻
   <img src="https://capsule-render.vercel.app/api?type=slice&color=40:ff0000,100:F76014&height=14&reversal=true" width="381">
 </p>
 <h3 align="center">
-React JS          ※             Node.js
+React.js            ※             Next.js
 </h3>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=60:ff0000,100:FA3D11&height=12" width="340">
@@ -84,7 +83,7 @@ React JS          ※             Node
   <br>
   <img src="https://capsule-render.vercel.app/api?type=slice&color=60:ff0000,100:FA0E09&height=6" width="140">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=60:ff0000,100:FA0E09&height=6&reversal=true" width="140">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3BC8BA,10:22A8D2,30:22A8D2,50:00BCF2,70:54BBC8,90:05aa9d,100:01786E&height=150&section=footer&text=🐬&fontAlignY=32&descAlignY=77&animation=twinkling&desc=🐡             🐟                          🐠      "/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3BC8BA,10:22A8D2,30:22A8D2,50:00BCF2,70:54BBC8,90:05aa9d,100:01786E&height=150&section=footer&text=🐬&fontAlignY=32&animation=twinkling"/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3BC8BA00,10:3BC8BA,30:22A8D2,70:54BBC8,90:04f9e5,100:01786E00&height=1&section=footer" width="700">
 </p>
 <img align="right" src="https://capsule-render.vercel.app/api?type=slice&color=10:CF00F300,55:F70000,85:FA7600,100:FBFC07,&height=795" width="150">
@@ -93,7 +92,7 @@ React JS          ※             Node
 <p>
   <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The problem of viruses is temporary and will be solved in two years.”— John McAfee, 1988  ❞</i>
+<i>❝“Perl: The only language that looks the same before and after RSA encryption.”— Keith Bostic   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
