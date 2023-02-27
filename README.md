@@ -110,23 +110,10 @@ React.js            ※            �
   <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50&reversal=true" width="180">
 </p>
 <br>
-<h2>✏️ Here are some projects I'm currently working on:</h2>
+<h2>💻 Here are some of my projects:</h2>
 <ul>
   <li><h3><a href="https://kauer3.github.io/beesweeper-web/">Beesweeper</a></h3></li>
-  <li><h3><a href="https://github.com/kauer3/folder.vim">folder.vim</a></h3></li>
-</ul>
-<br>
-<h2>💻 Here are some of my projects you can already install:</h2>
-<ul>
   <li><h3><a href="https://chrome.google.com/webstore/detail/slang-text-to-speech/enkmbkhkbdiaafkmofbmdahclajelgfh">Slang - Text to Speech</a></h3></li>
-  <li><h3><a href="https://github.com/kauer3/paste-replace.vim">paste-replace.vim</a></h3></li>
-</ul>
-<br>
-<h2>📚 And here's what I'm learning:</h2>
-<ul>
-  <li><h3><a href="https://www.typescriptlang.org/">TypeScript</a></h3></li>
-  <li><h3><a href="https://reactnative.dev/">React Native</a></h3></li>
-  <li><h3><a href="https://aws.amazon.com/">AWS</a></h3></li>
 </ul>
 <br>
 <br>
