@@ -83,7 +83,7 @@ React.js            ※            �
   <br>
   <img src="https://capsule-render.vercel.app/api?type=slice&color=60:ff0000,100:FA0E09&height=6" width="140">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=60:ff0000,100:FA0E09&height=6&reversal=true" width="140">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3BC8BA,10:22A8D2,30:22A8D2,50:00BCF2,70:54BBC8,90:05aa9d,100:01786E&height=150&section=footer&text=🐬&fontAlignY=32&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3BC8BA,10:22A8D2,30:22A8D2,50:00BCF2,70:54BBC8,90:05aa9d,100:01786E&height=150&section=footer&text=🐬-nl-🐟-nl-🐠-nl-🐡&fontAlignY=35&fontAlignY=65&fontAlignY=75&fontAlignY=70&fontAlign=50&fontAlign=8&fontAlign=25&fontAlign=85&animation=twinkling"/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3BC8BA00,10:3BC8BA,30:22A8D2,70:54BBC8,90:04f9e5,100:01786E00&height=1&section=footer" width="700">
 </p>
 <img align="right" src="https://capsule-render.vercel.app/api?type=slice&color=10:CF00F300,55:F70000,85:FA7600,100:FBFC07,&height=795" width="150">
