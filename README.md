@@ -92,7 +92,7 @@ React.js            ※            �
 <p>
   <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Mostly, when you see programmers, they aren’t doing anything.  One of the attractive things about programmers is that you cannot tell whether or not they are working simply by looking at them.  Very often they’re sitting there seemingly drinking coffee and gossiping, or just staring into space.  What the programmer is trying to do is get a handle on all the individual and unrelated ideas that are scampering around in his head.”— Charles M. Strauss   ❞</i>
+<i>❝“All parts should go together without forcing.  You must remember that the parts you are reassembling were disassembled by you.  Therefore, if you can’t get them together again, there must be a reason.  By all means, do not use a hammer.”— IBM Manual, 1925  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
