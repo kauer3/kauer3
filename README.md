@@ -92,7 +92,7 @@ React.js            ※            �
 <p>
   <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝In 1833, Charles Babbage invented all the parts a modern computer uses, but it wasn’t until 120 years later that the first modern computers were invented.❞</i>
+<i>❝“Manually managing blocks of memory in C is like juggling bars of soap in a prison shower: It’s all fun and games until you forget about one of them.”— anonymous Usenet user   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
