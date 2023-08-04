@@ -92,7 +92,7 @@ React.js            ※            �
 <p>
   <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝Web Arx security says more than 20,000 websites are hacked each day and most from the US❞</i>
+<i>❝“If you think your users are idiots, only idiots will use it.”— Linus Torvalds   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
