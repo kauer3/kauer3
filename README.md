@@ -92,7 +92,7 @@ React.js            ※            �
 <p>
   <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝The Ultra NVidia GeForce 6800 video card was built with 222 million transistors and considered among the best todate.❞</i>
+<i>❝4004 was the name given to the first microprocessor by Intel.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
