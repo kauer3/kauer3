@@ -92,7 +92,7 @@ React.js            ※            �
 <p>
   <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’  Now they have two problems.”— Jamie Zawinski   ❞</i>
+<i>❝“Your most unhappy customers are your greatest source of learning.”— Bill Gates   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
