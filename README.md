@@ -92,7 +92,7 @@ React.js            ※            �
 <p>
   <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝When you’re all grown up and working and you use a computer each day, your hands would have traveled 12.6 miles (about 20km) per day!❞</i>
+<i>❝“Everyone by now presumably knows about the danger of premature optimization.  I think we should be just as worried about premature design — designing too early what a program should do.”— Paul Graham   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
