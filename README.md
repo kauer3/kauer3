@@ -92,7 +92,7 @@ React.js            ※            �
 <p>
   <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Today, most software exists, not to solve a problem, but to interface with other software.”— IO Angell   ❞</i>
+<i>❝“The computer was born to solve problems that did not exist before.”— Bill Gates    ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
