@@ -92,7 +92,7 @@ React.js            ※            �
 <p>
   <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The best way to get accurate information on Usenet is to post something wrong and wait for corrections.”— Matthew Austern   ❞</i>
+<i>❝“In the future, computers may weigh no more than 1.5 tonnes.”— Popular mechanics, 1949   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
