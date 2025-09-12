@@ -52,7 +52,7 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://kauer3.github.io/" target="_blank" rel="noreferrer">Kauê</a>! <img width="23px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
+Hi there, I'm <a href="https://www.kauereis.tech/" target="_blank" rel="noreferrer">Kauê</a>! <img width="23px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 </h3>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=20:ff0000,80:F47D17&height=16" width="395">
@@ -122,13 +122,13 @@ React.js            ※            �
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="620">
 </p>
 <details align="center">
-  <summary><b>Check out my <a href="https://kauer3.github.io/" target="_blank" rel="noreferrer">portfolio</a> to learn more about me and what I do.
+  <summary><b>Check out my <a href="https://www.kauereis.tech/" target="_blank" rel="noreferrer">portfolio</a> to learn more about me and what I do.
 You are also welcome to visit my <a href="https://www.linkedin.com/in/kauer3/" target="_blank" rel="noreferrer">LinkedIn</a> page!</b><br>☰ Click for QR Code</summary>
 
 <br>
 <table align="center">
   <tr>
-    <th><b><a href="https://kauer3.github.io/" target="_blank" rel="noreferrer">Portfolio</a></b></th>
+    <th><b><a href="https://www.kauereis.tech/" target="_blank" rel="noreferrer">Portfolio</a></b></th>
     <th><b><a href="https://www.linkedin.com/in/kauer3/" target="_blank" rel="noreferrer">LinkedIn</a></b></th>
   </tr>
   <tr>
