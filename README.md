@@ -92,7 +92,7 @@ React.js            ※            �
 <p>
   <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Programming without an overall architecture or design in mind is like exploring a cave with only a flashlight: You don’t know where you’ve been, you don’t know where you’re going, and you don’t know quite where you are.”— Danny Thorpe   ❞</i>
+<i>❝“I didn’t work hard to make Ruby perfect for everyone, because you feel differently from me.  No language can be perfect for everyone.  I tried to make Ruby perfect for me, but maybe it’s not perfect for you.  The perfect language for Guido van Rossum is probably Python.”— Yukihiro Matsumoto, aka “Matz”, creator of Ruby   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
