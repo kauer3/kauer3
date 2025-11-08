@@ -92,7 +92,7 @@ React.js            ※            �
 <p>
   <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Computer Science is no more about computers than astronomy is about telescopes.”— Edsger W. Dijkstra  ❞</i>
+<i>❝500 hours of Video are uploaded to Facebook every minute according to Forecast.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
