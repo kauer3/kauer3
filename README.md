@@ -112,6 +112,7 @@ React.js            ※            �
 <br>
 <h2>💻 Here are some of my projects:</h2>
 <ul>
+  <li><h3><a href="https://kauer3.github.io/pet-sitter/">Pet Sitter</a> (Under Development)</h3></li>
   <li><h3><a href="https://kauer3.github.io/beesweeper-web/">Beesweeper</a></h3></li>
   <li><h3><a href="https://chrome.google.com/webstore/detail/slang-text-to-speech/enkmbkhkbdiaafkmofbmdahclajelgfh">Slang - Text to Speech</a></h3></li>
   <li><h3><a href="https://paper-cut.vercel.app">Papercut</a></h3></li>
