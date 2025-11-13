@@ -73,7 +73,7 @@ React.js            ※            �
   <img src="https://capsule-render.vercel.app/api?type=slice&color=60:ff0000,100:FA3D11&height=12" width="340">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=60:ff0000,100:FA3D11&height=12&reversal=true" width="340">
 </p>
-<h4 align="center"><i>"Software is a great combination between artistry and engineering." - Bill Gates</i></h4>
+<h4 align="center"><i>"The best way to predict the future is to implement it.” - David Heinemeier Hansson</i></h4>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=80:ff0000,100:FA3D11&height=10" width="255">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=80:ff0000,100:FA3D11&height=10&reversal=true" width="255">
