@@ -92,7 +92,7 @@ React.js            ※            �
 <p>
   <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝“It’s better to wait for a productive programmer to become available than it is to wait for the first available programmer to become productive.”— Steve McConnell❞</i>
+<i>❝The first webcam was used at Cambridge University. Its purpose was to monitor a coffee maker so they didn’t waste trips to an empty pot.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
