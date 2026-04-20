@@ -16,13 +16,13 @@ jobs:
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true
-          path: profile/stats.svg
+          path: images/stats.svg
           token: ${{ secrets.GH_TOKEN }}
 
       - name: Commit cards
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add profile/*.svg
+          git add images/stats.svg
           git commit -m "Update README cards" || exit 0
           git push
