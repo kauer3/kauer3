@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Kau&#234; Reis' GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 195, Total Commits  (last year) : 983, Total PRs: 31, Total Issues: 19, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 195, Total Commits  (last year) : 949, Total PRs: 31, Total Issues: 19, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 83.67014026938277;
+        stroke-dashoffset: 83.94143032175593;
       }
     }
   
@@ -187,7 +187,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >983</text>
+      >949</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
