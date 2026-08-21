@@ -92,7 +92,7 @@ React.js            ※            �
 <p>
   <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Programming can be fun, so can cryptography; however they should not be combined.”— Kreitzberg and Shneiderman  ❞</i>
+<i>❝“Real knowledge is to know the extent of one’s ignorance.”— Confucius   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
