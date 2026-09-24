@@ -92,7 +92,7 @@ React.js            ※            �
 <p>
   <a align="left" href='https://github.com/marketplace/actions/quote-readme'>
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I think it is inevitable that people program poorly.  Training will not substantially help matters.  We have to learn to live with it.”— Alan Perlis   ❞</i>
+<i>❝“We have to stop optimizing for programmers and start optimizing for users.”— Jeff Atwood   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 </p>
