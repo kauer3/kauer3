@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Kau&#234; Reis' GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 197, Total Commits  (last year) : 416, Total PRs: 31, Total Issues: 19, Contributed to (last year): 0</desc>
+        <title id="titleId">Kau&#234; Reis' GitHub Stats, Rank: B+</title>
+        <desc id="descId">Total Stars Earned: 197, Total Commits  (last year) : 399, Total PRs: 31, Total Issues: 19, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 94.00639386889905;
+        stroke-dashoffset: 94.64434041554226;
       }
     }
   
@@ -153,7 +153,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          A-
+          B+
         </text>
       
         </g>
@@ -187,7 +187,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >416</text>
+      >399</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
